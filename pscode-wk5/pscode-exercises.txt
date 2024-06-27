@@ -1,4 +1,4 @@
-// Exercise 1: Calculate the Sum of Two Numbers
+// Exercise 1:   Calculate the Sum of Two Numbers
 
 Print "Enter the first number: "
 Input (int) = num1
